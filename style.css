@@ -1,5 +1,9 @@
-input {
-    color: red;
+#testo {
+    color: green;
+}
+
+#taboo {
+    color: red
 }
 
 button {
